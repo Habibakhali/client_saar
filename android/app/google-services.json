@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224582885728",
+    "project_id": "client-saar",
+    "storage_bucket": "client-saar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224582885728:android:647a6a62ee7decae1abe05",
+        "android_client_info": {
+          "package_name": "com.example.client_saar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Du-JEoKDMc1z6xU4JZ55FfkrIIwipQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
